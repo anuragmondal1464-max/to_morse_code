@@ -1,6 +1,6 @@
 # 🧑‍💻 Morse Code Converter 
 
-![Project Banner](Banner\Banner.jpg)
+![Project Banner](\Banner\Banner.jpg)
 
 A simple, easy - to - use morse code converter which can convert a simple english aplhabet into morse code one ... 
 
