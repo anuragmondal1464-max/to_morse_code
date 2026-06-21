@@ -1,6 +1,6 @@
 # 🧑‍💻 Morse Code Converter 
 
-![Project Banner](D:\AF\Banner.jpg)
+![Project Banner](\Morse Code Converter\Banner.jpg)
 
 A simple, easy - to - use morse code converter which can convert a simple english aplhabet into morse code one ... 
 
@@ -40,5 +40,5 @@ Before running the project, make sure you have the following installed:
 ### Step 1: Clone the Repository
 ```bash
 git clone [https://github.com/anuragmondal1464-max/to_morse_code.git](https://github.com/anuragmondal1464-max/to_morse_code.git)
-cd Python_Project
+cd to_morse_code
 
